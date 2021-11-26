@@ -51,3 +51,17 @@ button
     font-size: 1.5rem;
     font-weight: bold;
 }
+
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color:hsla(0, 2%, 12%, 0.466);
+    backdrop-filter: blur(50px);
+}
+
+h2{
+    color: rgb(253, 253, 253);
+    font-size: 5rem;
+}
