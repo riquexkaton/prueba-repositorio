@@ -42,7 +42,7 @@ h1{
 button
 {
     padding: 1rem;
-    background-color: #333;
+    background-color: rgb(223, 39, 39);
     border: none;
     outline: none;
     border-radius: 10px;
@@ -57,11 +57,11 @@ header{
     top: 0;
     left: 0;
     width: 100%;
-    background-color:hsla(0, 2%, 12%, 0.466);
-    backdrop-filter: blur(50px);
+    padding: 1rem 0 0 1rem;
 }
 
 h2{
-    color: rgb(253, 253, 253);
-    font-size: 5rem;
+    color: rgb(43, 40, 40);
+    font-size: 1.5rem;
+    font-weight: bold;
 }
