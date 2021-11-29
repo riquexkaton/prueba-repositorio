@@ -91,3 +91,12 @@ h2{
     font-size: 1.5rem;
     font-weight: bold;
 }
+footer
+{
+    background-color: seagreen;
+    width: 100%;
+    text-align: center;
+    font-size: 4rem;
+    color: white;
+    font-weight: lighter;
+}
